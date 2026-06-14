@@ -9,6 +9,7 @@ This project analyzes sales data using Python and data visualization techniques.
 - Pandas
 - Matplotlib
 - Seaborn
+- Random
 
 ## Dataset
 The dataset contains:
@@ -29,6 +30,7 @@ The dataset contains:
 6. Monthly Product Performance
 
 ## Key Insights
+Resutl will be change according the data
 - Kolkata generated the highest revenue.
 - Hyderabad generated the lowest revenue.
 - Laptops were the top-performing product.
